@@ -53,7 +53,7 @@ Berdasarkan pengujian menyeluruh menggunakan subset data pengujian (*testing set
 
 ### Kesimpulan Hasil:
 * **SVM dengan Fitur GLCM + HSV** memberikan performa yang sangat kompetitif sebesar **95,00%**. Model ini sangat efisien untuk perangkat komputasi rendah, namun memiliki sedikit bias spasial pada kelas objek yang memiliki bentuk geometri serupa (seperti antara bakpao dan soes).
-* **MobileNetV2 dengan Transfer Learning** mendominasi secara mutlak dengan raihan akurasi sempurna **100,00%**. Kombinasi *Inverted Residual Blocks* dan strategi *Fine-tuning* terbukti sangat sahih dan presisi dalam mengekstraksi representasi visual tingkat tinggi dari jajanan pasar tradisional tanpa mengalami gejala *overfitting*.
+* **MobileNetV2 dengan Transfer Learning** mendominasi secara mutlak dengan akurasi sempurna **100,00%**. Kombinasi *Inverted Residual Blocks* dan strategi *Fine-tuning* terbukti sangat sahih dan presisi dalam mengekstraksi representasi visual tingkat tinggi dari jajanan pasar tradisional tanpa mengalami gejala *overfitting*.
 
 ---
 💡 *Proyek ini disusun sebagai pemenuhan syarat kelulusan komponen UAS praktikum Machine & Deep Learning.*
