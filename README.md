@@ -31,7 +31,7 @@ Seluruh kode program eksperimen ini dirancang dan dijalankan di dalam satu *note
 
 2. **Menjalankan Eksperimen di Google Colab:**
    * Buka file `.ipynb` proyek ini di Google Colab.
-   * Aktifkan runtime GPU (*Runtime > Change runtime type > T4 GPU*).
+   * Aktifkan runtime CPU.
    * Jalankan *cell* bagian **1. IMPORT LIBRARY** untuk menghubungkan (*mount*) Google Colab dengan Google Drive Anda.
    * Eksekusi seluruh *cell* secara berurutan mulai dari tahap *Configuration*, *Loading Dataset*, *Preprocessing/Augmentasi*, hingga proses *Training* selesai.
 
