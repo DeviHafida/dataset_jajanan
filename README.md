@@ -22,7 +22,7 @@ Sistem ini dirancang untuk mengenali dan mengklasifikasikan citra 6 jenis jajana
 
 ## 🛠️ 2. Cara Menjalankan Program
 
-Seluruh kode program eksperimen ini dirancang dan dijalankan di dalam satu *notebook* **Google Colaboratory** yang sama agar proses pelatihan berbasis GPU dapat berjalan optimal.
+Seluruh kode program eksperimen ini dirancang dan dijalankan di dalam satu *notebook* **Google Colaboratory** yang sama agar proses pelatihan berbasis CPU dapat berjalan optimal.
 
 ### Langkah-langkah Eksekusi:
 1. **Persiapan Dataset:**
@@ -34,11 +34,6 @@ Seluruh kode program eksperimen ini dirancang dan dijalankan di dalam satu *note
    * Aktifkan runtime CPU.
    * Jalankan *cell* bagian **1. IMPORT LIBRARY** untuk menghubungkan (*mount*) Google Colab dengan Google Drive Anda.
    * Eksekusi seluruh *cell* secara berurutan mulai dari tahap *Configuration*, *Loading Dataset*, *Preprocessing/Augmentasi*, hingga proses *Training* selesai.
-
-3. **Menyimpan Model Hasil Training:**
-   * Untuk mengamankan bobot jaringan saraf MobileNetV2 yang telah matang, jalankan *cell* penyimpanan model untuk menghasilkan file `model_mobilenetv2_jajanan.h5`.
-
----
 
 ## 📊 3. Hasil Utama Model
 
