@@ -56,4 +56,4 @@ Berdasarkan pengujian menyeluruh menggunakan subset data pengujian (*testing set
 * **MobileNetV2 dengan Transfer Learning** mendominasi secara mutlak dengan akurasi sempurna **100,00%**. Kombinasi *Inverted Residual Blocks* dan strategi *Fine-tuning* terbukti sangat sahih dan presisi dalam mengekstraksi representasi visual tingkat tinggi dari jajanan pasar tradisional tanpa mengalami gejala *overfitting*.
 
 ---
-💡 *Proyek ini disusun sebagai pemenuhan syarat kelulusan komponen UAS praktikum Machine Learning I.*
+Link Drive: (https://drive.google.com/drive/folders/1nHSerZaZTE-k1ZtIcsplqiWZHvpeEFZB?usp=drive_link)
