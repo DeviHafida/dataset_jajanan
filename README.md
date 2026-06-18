@@ -1,6 +1,6 @@
 # 🥮 Klasifikasi Jajanan Pasar Tradisional Indonesia menggunakan SVM dan MobileNetV2
 
-Proyek ini merupakan tugas akhir (UAS) untuk mata kuliah Machine & Deep Learning di Program Studi Teknologi Informasi, Universitas Lambung Mangkurat (ULM). Penelitian ini berfokus pada komparasi performa antara metode Machine Learning konvensional (**SVM**) dan Deep Learning (**MobileNetV2**) dalam mengklasifikasikan 6 jenis jajanan pasar tradisional.
+Proyek ini merupakan tugas akhir (UAS) untuk mata kuliah Machine Learning I di Program Studi Teknologi Informasi, Universitas Lambung Mangkurat . Penelitian ini berfokus pada komparasi performa antara metode Machine Learning konvensional (**SVM**) dan Deep Learning (**MobileNetV2**) dalam mengklasifikasikan 6 jenis jajanan pasar tradisional.
 
 ---
 
@@ -56,4 +56,4 @@ Berdasarkan pengujian menyeluruh menggunakan subset data pengujian (*testing set
 * **MobileNetV2 dengan Transfer Learning** mendominasi secara mutlak dengan akurasi sempurna **100,00%**. Kombinasi *Inverted Residual Blocks* dan strategi *Fine-tuning* terbukti sangat sahih dan presisi dalam mengekstraksi representasi visual tingkat tinggi dari jajanan pasar tradisional tanpa mengalami gejala *overfitting*.
 
 ---
-💡 *Proyek ini disusun sebagai pemenuhan syarat kelulusan komponen UAS praktikum Machine & Deep Learning.*
+💡 *Proyek ini disusun sebagai pemenuhan syarat kelulusan komponen UAS praktikum Machine Learning I.*
